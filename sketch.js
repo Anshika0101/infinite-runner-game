@@ -27,7 +27,6 @@ function preload(){
   moneySound = loadSound("coin.wav");
   jumpSound= loadSound("SmallJumpwav.wav")
   deadSound = loadSound("MarioDiedSound.wav")
-  bgSound = loadSound("backgroundSound.mp3")
   bellSound = loadSound("bells1.mp3");
 
   obstacle1 = loadImage("obstacle1.png");
